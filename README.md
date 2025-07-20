@@ -18,7 +18,7 @@ Most of my experience comes from academic projects and self-driven learning. I�
 An AR-based detective game built using Unity and Firebase.  
 Players interact with virtual clues placed in real-world environments using mobile AR.
 
-> 📌 **Note:** This was submitted as my MCA final project. I’m now reworking it from scratch with plans to add new features, including ML-based clue detection using YOLOv8.
+> 📌 **Note:** This was submitted as my MCA final project."Currently reworking the project from the ground up, with plans to add new features — including machine learning-based clue detection using YOLOv8."
 
 🔗 [GitHub Repository](https://github.com/salmasulthana-dev/InvestigateAR-Game)
 
@@ -34,7 +34,7 @@ A simple task manager built using HTML, CSS, and JavaScript.
 
 - **Languages:** Python, C#, Java 
 - **Web:** HTML, CSS, Javascript, PHP Basics  
-- **Tools:** Unity, Firebase, VS Code  
+- ** Frameworks & Tools:** Unity, Firebase, VS Code  
 - **Learning:** YOLOv8, SQL, Cloud Basics
 
 ---
