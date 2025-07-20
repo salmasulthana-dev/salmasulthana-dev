@@ -32,9 +32,9 @@ A simple task manager built using HTML, CSS, and JavaScript.
 
 ## 🛠 Skills
 
-- **Languages:** Python, C#, Java, JavaScript  
-- **Web:** HTML, CSS, PHP  
-- **Tools:** Unity, Firebase, Git, VS Code  
+- **Languages:** Python, C#, Java 
+- **Web:** HTML, CSS, Javascript, PHP Basics  
+- **Tools:** Unity, Firebase, VS Code  
 - **Learning:** YOLOv8, SQL, Cloud Basics
 
 ---
