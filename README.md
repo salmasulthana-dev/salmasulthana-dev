@@ -14,7 +14,7 @@ Most of my experience comes from academic projects and self-driven learning. I�
 
 ## 🧩 Projects
 
-### 🔍 Investigate AR *(Academic Project)*  
+### 🔍 Investigate AR: An Augmented Reality Detective Adventure *(Academic Project)*  
 An AR-based detective game built using Unity and Firebase.  
 Players interact with virtual clues placed in real-world environments using mobile AR.
 
@@ -32,10 +32,10 @@ A simple task manager built using HTML, CSS, and JavaScript.
 
 ## 🛠 Skills
 
-- **Languages:** Python, C#, Java 
+- **Languages:** C, Python, C#, Java
 - **Web:** HTML, CSS, Javascript, PHP Basics  
 - ** Frameworks & Tools:** Unity, Firebase, VS Code  
-- **Learning:** YOLOv8, SQL, Cloud Basics
+- **Learning:** YOLOv8, SQL, Cloud Basics, Power BI
 
 ---
 
