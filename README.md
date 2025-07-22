@@ -1,24 +1,27 @@
-## 👋 Hi, I'm Shaik Salma Sulthana
+# 👋 Hi, I'm Shaik Salma Sulthana
 
 🎓 MCA Graduate (2025)  
-🛠 Python • C# • Unity • Firebase • HTML/CSS/JS
+🛠 Python • C# (Unity Scripting) • Firebase • HTML/CSS/JS • PHP Basics
 
 ---
 
 ## 🧾 About Me
 
 I recently completed my MCA and have been applying my skills through hands-on development work.  
-Most of my experience comes from academic projects and self-driven learning. I’m currently revisiting past projects and expanding them with new features and technologies.
+Most of my experience comes from academic projects and self-driven learning.  
+I’m currently revisiting past projects and expanding them with new features and technologies.
+
+> 🧠 I used **C# primarily for Unity scripting** — handling basic scene control, object placement, and triggers. I'm currently learning **core C# programming concepts** outside Unity to grow into full-stack development.
 
 ---
 
 ## 🧩 Projects
 
-### 🔍 Investigate AR: An Augmented Reality Detective Adventure *(Academic Project)*  
+### 🔍 Investigate AR *(Academic Project)*  
 An AR-based detective game built using Unity and Firebase.  
 Players interact with virtual clues placed in real-world environments using mobile AR.
 
-> 📌 **Note:** This was submitted as my MCA final project."Currently reworking the project from the ground up, with plans to add new features — including machine learning-based clue detection using YOLOv8."
+> 📌 This was submitted as my MCA final project. Currently reworking the project from the ground up, with plans to add new features — including machine learning-based clue detection using YOLOv8.
 
 🔗 [GitHub Repository](https://github.com/salmasulthana-dev/InvestigateAR-Game)
 
@@ -32,10 +35,10 @@ A simple task manager built using HTML, CSS, and JavaScript.
 
 ## 🛠 Skills
 
-- **Languages:** C, Python, C#, Java
-- **Web:** HTML, CSS, Javascript, PHP Basics  
-- ** Frameworks & Tools:** Unity, Firebase, VS Code  
-- **Learning:** YOLOv8, SQL, Cloud Basics, Power BI
+- **Languages:** Python, C# (Unity scripting), Java (academic), PHP (basic)  
+- **Web:** HTML, CSS, JavaScript  
+- **Frameworks & Tools:** Unity, Firebase, VS Code  
+- **Currently Learning:** YOLOv8 (object detection), SQL (CRUD), Firebase Authentication, OOP in C#
 
 ---
 
