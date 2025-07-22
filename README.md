@@ -39,7 +39,7 @@ A simple task tracker created using HTML, CSS, and JavaScript.
 - **Languages:** Python, C# (Unity), Java (Academic), PHP (Basic)  
 - **Web:** HTML, CSS, JavaScript  
 - **Frameworks & Tools:** Unity, Firebase,  VS Code  
-- **Currently Learning:** YOLOv8 (Object Detection), Firebase Auth, OOP in C#
+- **Currently Learning:** YOLOv8 (Object Detection), Firebase Auth, SQL(CRUD) OOP in C#
 
 ---
 
