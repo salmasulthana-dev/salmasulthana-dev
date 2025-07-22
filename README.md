@@ -1,50 +1,65 @@
 # 👋 Hi, I'm Shaik Salma Sulthana
 
 🎓 MCA Graduate (2025)  
-🛠 Python • C# (Unity Scripting) • Firebase • HTML/CSS/JS • PHP (Basic)
+💻 Aspiring Software & Web Developer | Passionate about Python, AR, and AI
 
 ---
 
 ## 🧾 About Me
 
-I recently completed my MCA and have been actively applying my skills through hands-on project work.  
-Most of my experience is rooted in academic projects and self-driven learning, where I explored real-world applications of technology.
+I’m an MCA graduate with hands-on experience in Python programming, front-end web development, and Unity C# scripting. My learning journey has been shaped by academic projects and self-directed exploration of real-world technologies.
 
-> 🧠 I’ve used **C# primarily for Unity scripting** — working on basic scene control, object interactions, and event triggers. I'm now diving deeper into **core C# concepts** to grow toward full-stack development.
-
-I enjoy learning by building, and I’m currently expanding and refining my older projects with new features and technologies.
+> 🧠 While I haven't used the full Unity Editor or deployed Firebase-based projects yet, I have studied their workflows and written C# scripts to simulate gameplay logic in AR environments. I'm currently focused on improving my backend skills and exploring AI integrations using Python.
 
 ---
 
 ## 🧩 Projects
 
-### 🔍 Investigate AR *(Academic Project)*  
-An AR-based detective game built using Unity and Firebase.  
-Players explore real-world environments to uncover virtual clues using their mobile device.
+### 🔍 Investigate AR *(Academic Project – Scripting Prototype)*  
+A detective game prototype based on Augmented Reality concepts, created using Unity C# scripting logic.
 
-> 📌 Submitted as my MCA final-year project. I'm now redesigning it from scratch and plan to integrate **YOLOv8** for machine learning-based clue detection.
+- Developed sample game logic scripts (`ARGameController.cs`) for scene transitions, player-clue interaction, and trigger-based gameplay flow.  
+- Designed a storyline progression with scenario-based player choices and immersive UI/UX flow (conceptualized based on Unity documentation/tutorials).  
+- Explored how Firebase could be used for player authentication and game data (not implemented).  
+- Currently planning to integrate Python and **YOLOv8** for AI-based clue detection and gameplay analytics.
+
+> 📌 Submitted as part of my MCA final project. This project reflects my interest in combining immersive tech with AI, and my commitment to learning by doing.
 
 🔗 [GitHub Repository](https://github.com/salmasulthana-dev/InvestigateAR-Game)
 
 ---
 
 ### ✅ To-Do List Web App  
-A simple task tracker created using HTML, CSS, and JavaScript.  
+A simple task manager built using HTML, CSS, and JavaScript.
+
+- Allows users to add, delete, and mark tasks as completed.  
+- Designed with basic responsive layout for small screens.  
+- Built as part of my web development learning practice.
+
 🔗 [GitHub Repository](https://github.com/salmasulthana-dev/todo-list-webapp)
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills & Tools
 
-- **Languages:** Python, C# (Unity), Java (Academic), PHP (Basic)  
-- **Web:** HTML, CSS, JavaScript  
-- **Frameworks & Tools:** Unity, Firebase,  VS Code  
-- **Currently Learning:** YOLOv8 (Object Detection), Firebase Auth, SQL(CRUD) OOP in C#
+- **Languages:** Python, C# (Unity scripting), Java (academic), PHP (basic)  
+- **Web Technologies:** HTML, CSS, JavaScript  
+- **Tools Studied:** Unity (C# scripting), Firebase (theory), VS Code  
+- **Currently Learning:** YOLOv8 (Object Detection), Firebase Authentication, OOP in C#
+
+---
+
+## 🏅 Highlights
+
+- Developed academic and prototype-level projects based on real-world use cases.  
+- Participated in coding contests, technical quizzes, and development bootcamps.  
+- Passionate about merging creativity with code, especially in AR, AI, and game design.
 
 ---
 
 ## 📫 Contact
 
-📧 salmasulthanashaik02@gmail.com
+📧 **salmasulthanashaik02@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/salmasulthana-dev) *(Add your actual link here if not done)*
 
-> Open to collaborations, internships, or fresher roles in software development, AI, or web development. Feel free to connect!
+> Open to internships or fresher roles in software, web, or AI-related development. Always happy to learn, connect, and collaborate!
