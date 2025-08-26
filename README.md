@@ -60,6 +60,6 @@ A simple task manager built using HTML, CSS, and JavaScript.
 ## 📫 Contact
 
 📧 **salmasulthanashaik02@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/salmasulthana-dev) *(Add your actual link here if not done)*
+🔗 [LinkedIn](https://www.linkedin.com/in/salmasulthana-dev) 
 
 > Open to internships or fresher roles in software, web, or AI-related development. Always happy to learn, connect, and collaborate!
